@@ -47,4 +47,3 @@ In my first Frontend Mentor project, I've come to realize that there's still muc
 **Jennifer Godfrey**
 - [GitHub](https://github.com/jenieg)
 - [Website](https://jenie.netlify.app/)
-- [Twitter](https://twitter.com/jenie_m_g)
